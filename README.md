@@ -25,11 +25,14 @@ Here are a few of my data analysis projects:
 ### 📊 [Customer Engagement & Campaign Performance Analytics](https://github.com/av3011/Data_Analyst_Projects/tree/main/Customer_Engagement_Campaign_Performance_Analytics)
 Analyzed multi-channel marketing data using SQL & Power BI to evaluate campaign performance, customer engagement, and content impact.
 
-### 🛒 [E-Commerce Customer Segmentation Analysis](https://github.com/av3011/Data_Analyst_Projects/tree/main/E-Commerce_Customer_Segmentation_Analysis)
-Used Python (Pandas, Seaborn, Matplotlib) to segment customer behavior by demographics and product preferences to drive marketing strategy.
-
 ### 🧸 [Multi-Store Sales Performance Analysis](https://github.com/av3011/Data_Analyst_Projects/tree/main/Multi_Store_Sales_Analysis)
 Evaluated store and product performance across locations using SQL and Power BI, leading to optimized inventory and increased revenue.
+
+### 🎓 [EdTech Lead Funnel Analysis](https://github.com/av3011/Data_Analyst_Projects/tree/main/EdTech_Lead_Analysis)  
+Explored lead drop-offs, conversion patterns, and manager performance using SQL and Python. Provided actionable insights that could boost conversion rate from 19.5% to 24–26% for an EdTech platform.
+
+### 🛒 [E-Commerce Customer Segmentation Analysis](https://github.com/av3011/Data_Analyst_Projects/tree/main/E-Commerce_Customer_Segmentation_Analysis)
+Used Python (Pandas, Seaborn, Matplotlib) to segment customer behavior by demographics and product preferences to drive marketing strategy.
 
 🗂 View the full repo: [Data_Analyst_Projects](https://github.com/av3011/Data_Analyst_Projects)
 
