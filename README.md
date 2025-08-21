@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Asif Vahora
 
-🎯 **Aspiring Data Analyst** with experience analyzing real-world datasets using **SQL**, **Power BI**, **Python**, and **Excel**.  
-🧹 Skilled in **data cleaning**, **exploratory data analysis (EDA)**, and building interactive **dashboards** to generate actionable **business insights**.  
-📊 Passionate about transforming raw data into meaningful decisions that drive measurable business outcomes.
+Data Analyst with 2 years of experience in data migration and analytics. Proficient in SQL, Python, Excel, and Power BI, with expertise in cleaning, analyzing, and visualizing data to deliver actionable business insights. Passionate about transforming raw data into meaningful decisions that drive measurable business outcomes.
 
 ---
 
