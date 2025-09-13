@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asif Vahora
 
-Data Analyst with 2 years of experience in data migration and analytics. Proficient in SQL, Python, Excel, and Power BI, with expertise in cleaning, analyzing, and visualizing data to deliver actionable business insights. Passionate about transforming raw data into meaningful decisions that drive measurable business outcomes.
+Analytical professional with 2 years of experience in SQL, Python, Power BI, and Excel. Proficient in data analysis, visualization, and reporting, with practical exposure to supervised and unsupervised machine learning for classification, regression, and clustering tasks.
 
 ---
 
@@ -11,6 +11,7 @@ Data Analyst with 2 years of experience in data migration and analytics. Profici
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9A1EAE?style=flat&logo=seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
@@ -31,6 +32,10 @@ Explored lead drop-offs, conversion patterns, and manager performance using SQL 
 
 ### 🛒 [E-Commerce Customer Segmentation Analysis](https://github.com/av3011/Data_Analyst_Projects/tree/main/E-Commerce_Customer_Segmentation_Analysis)
 Used Python (Pandas, Seaborn, Matplotlib) to segment customer behavior by demographics and product preferences to drive marketing strategy.
+
+### 🍷 [Wine Quality Prediction](https://github.com/av3011/Data_Analyst_Projects/tree/main/Wine_Quality_Prediction)
+Applied Python (Pandas, Scikit-learn, Matplotlib) to analyze 1,600+ wine samples and predict quality (Good vs Bad). 
+Built and compared multiple ML models (Logistic Regression, Random Forest, XGBoost) and handled class imbalance using SMOTE, achieving 82% accuracy with balanced precision-recall.
 
 🗂 View the full repo: [Data_Analyst_Projects](https://github.com/av3011/Data_Analyst_Projects)
 
