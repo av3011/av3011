@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asif Vahora
 
-Analytical professional with 2 years of experience in SQL, Python, Power BI, and Excel. Proficient in data analysis, visualization, and reporting, with practical exposure to supervised and unsupervised machine learning for classification, regression, and clustering tasks.
+Analytical professional with 2 years of IT experience, skilled in SQL, Python, Power BI, and Excel. Experienced in data analysis, visualization, and reporting, with hands-on exposure to supervised and unsupervised machine learning techniques for classification, regression.
 
 ---
 
@@ -12,8 +12,6 @@ Analytical professional with 2 years of experience in SQL, Python, Power BI, and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9A1EAE?style=flat&logo=seaborn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ---
 
